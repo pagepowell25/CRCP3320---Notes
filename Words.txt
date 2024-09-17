@@ -1,0 +1,10 @@
+cat 
+dog 
+parrot 
+car 
+snow
+red
+blue
+turtle
+pink
+blue
