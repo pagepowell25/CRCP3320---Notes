@@ -2,8 +2,8 @@ cat
 dog 
 parrot 
 car 
-snow
 red
+sink
 blue
 turtle
 pink
